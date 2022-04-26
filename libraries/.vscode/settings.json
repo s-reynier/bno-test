@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "twowirescheduler.h": "c",
+        "hardwareconfig.h": "c",
+        "lightinvensense.h": "c",
+        "kalmanvert.h": "c"
+    }
+}
